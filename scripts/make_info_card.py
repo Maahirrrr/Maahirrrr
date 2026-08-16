@@ -9,7 +9,7 @@ def make_info_card(output_path="info-card.svg"):
     svg_height = 300
 
     content = [
-        {"key": "Now", "value": "AI Product Manager & Founder @ Maahir & Co."},
+        {"key": "Now", "value": "AI Product Manager &amp; Founder @ Maahir &amp; Co."},
         {"key": "Prev", "value": "Hackathon Team Leader @ Royal Technosoft"},
         {"key": "Stack", "value": "Python, LLMs, Computer Vision (YOLOv8)"},
         {"key": "Highlights", "value": "Built NyAI (Legal AI Assistant)"},
