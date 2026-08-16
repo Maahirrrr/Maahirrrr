@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="490" height="300" viewBox="0 0 490 300">
+  <style>
+    .text { font-family: monospace; font-size: 14px; fill: #c9d1d9; }
+    .key { fill: #58a6ff; font-weight: bold; }
+    .title { fill: #7ee787; font-weight: bold; }
+    .separator { fill: #8b949e; }
+    @keyframes slideIn {
+      0% { opacity: 0; transform: translateX(-10px); }
+      100% { opacity: 1; transform: translateX(0); }
+    }
+    .animated { opacity: 0; animation: slideIn 0.5s forwards; }
+  </style>
+  <g class="text">
+    <text x="20" y="30" class="animated" style="animation-delay: 0.0s"><tspan class="title">Maahirrrr@github</tspan><tspan class="separator">-------------------</tspan></text>
+    <text x="20" y="54" class="animated" style="animation-delay: 0.2s">OS: GitHub Profile OS</text>
+    <text x="20" y="78" class="animated" style="animation-delay: 0.4s"><tspan class="key">Now</tspan><tspan class="separator">:</tspan> AI Product Manager & Founder @ Maahir & Co.</text>
+    <text x="20" y="102" class="animated" style="animation-delay: 0.6000000000000001s"><tspan class="key">Prev</tspan><tspan class="separator">:</tspan> Hackathon Team Leader @ Royal Technosoft</text>
+    <text x="20" y="126" class="animated" style="animation-delay: 0.8s"><tspan class="key">Stack</tspan><tspan class="separator">:</tspan> Python, LLMs, Computer Vision (YOLOv8)</text>
+    <text x="20" y="150" class="animated" style="animation-delay: 1.0s"><tspan class="key">Highlights</tspan><tspan class="separator">:</tspan> Built NyAI (Legal AI Assistant)</text>
+    <text x="20" y="174" class="animated" style="animation-delay: 1.2000000000000002s"><tspan class="key">Seeking</tspan><tspan class="separator">:</tspan> Remote collaboration with early-stage AI startups</text>
+    <g class="animated" style="animation-delay: 1.4000000000000001s"><rect x="20" y="210" width="20" height="15" fill="#ff7b72" /><rect x="40" y="210" width="20" height="15" fill="#ffa657" /><rect x="60" y="210" width="20" height="15" fill="#3fb950" /><rect x="80" y="210" width="20" height="15" fill="#79c0ff" /><rect x="100" y="210" width="20" height="15" fill="#a5d6ff" /><rect x="120" y="210" width="20" height="15" fill="#d2a8ff" /></g>
+  </g>
+</svg>
