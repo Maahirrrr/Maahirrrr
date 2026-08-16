@@ -155,7 +155,7 @@
       </rect>
     </clipPath>
   </defs>
-  <g class="ascii">
+  <g class="ascii" xml:space="preserve">
     <text x="0" y="12" clip-path="url(#clip-0)">-........   .-.#+######################+                        </text>
     <rect class="cursor" x="0" y="2" width="8" height="12" opacity="0">
       <animate attributeName="x" from="0" to="512" begin="0.0s" dur="0.5s" fill="freeze" />
